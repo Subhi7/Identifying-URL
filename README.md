@@ -1,6 +1,8 @@
-# TrustLabsAssesment
+# Identifying URLs having misinformation about COVID treatment
 
-I divided this assessment in various parts:
+The goal is to find if a URL/website from the common crawl database promote the use of hydroxychloroquine or chloroquine for treating COVID-19 (if curious for more background, see FDA note).
+
+I divided this project in various parts:
 
 First is to use Common Crawler in order to extract various indexes and download files of a particular domain.
 Second is to filter on URLs which contain relevant information
